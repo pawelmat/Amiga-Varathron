@@ -4,20 +4,20 @@
 
 This demo was released by Suspect in 1993.
 
-platform :Amiga OCS/ECS Amiga OCS/ECS
-type : demo demo
-release date : May 1993
-release party :	Mountain Congress 1993
-compo :	amiga demo
-ranked : 4th
+- platform :Amiga OCS/ECS Amiga OCS/ECS
+- type : demo demo
+- release date : May 1993
+- release party :	Mountain Congress 1993
+- compo :	amiga demo
+- ranked : 4th
 
 ## Links
 
-https://www.pouet.net/prod.php?which=51592
+https://www.pouet.net/prod.php?which=10845
 
 ## Development environment
 
-A system with minimum 0.5MB chip is required, and some additional fast or chip memory to host the sources. Can be a real Amiga or emulator-based.
+A Commodore Amiga 500 (or better) with minimum 0.5MB chip is required, and some additional fast or chip memory to host the sources. Can be a real Amiga or emulator-based.
 
 Seka (most likely) or AsmOne is needed to assemble the source code.
 
